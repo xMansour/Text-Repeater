@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnnoyThem - Text Repeater</string>
+    <string name="button_produce">Produce</string>
+    <string name="button_copy">Copy</string>
+    <string name="checkbox_newline">New Line</string>
+
+</resources>
